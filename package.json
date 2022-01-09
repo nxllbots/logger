@@ -1,0 +1,20 @@
+{
+  "name": "@nxll/logger",
+  "version": "1.0.0",
+  "description": "Simple CLI creator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon tests/index.js"
+  },
+  "repository": "https://github.com/nxllbots/logger.git",
+  "author": "SirTenzin",
+  "license": "MIT",
+  "dependencies": {
+    "align-text": "^1.0.2",
+    "colours": "^0.6.0-2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "moment": "^2.29.1"
+  },
+  "private": false
+}
